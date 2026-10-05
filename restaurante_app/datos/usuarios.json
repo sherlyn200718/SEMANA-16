@@ -1,0 +1,20 @@
+[
+    {
+        "usuario": "admin",
+        "password": "1234",
+        "nombre": "Administrador",
+        "rol": "Administrador"
+    },
+    {
+        "usuario": "mesero",
+        "password": "1234",
+        "nombre": "Mesero",
+        "rol": "Empleado"
+    },
+    {
+        "usuario": "cliente1",
+        "password": "1234",
+        "nombre": "Ana Morales",
+        "rol": "Cliente"
+    }
+]
